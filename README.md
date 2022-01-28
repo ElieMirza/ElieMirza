@@ -2,7 +2,7 @@
 
 ## I'm a Junior Web Developer 👨‍💻
 
-I love how a text editor and time can help me create things everyone can experience.
+I love how a text editor and time can help me create things everyone can experience.<br/>
 Born a programmer, forever a learner.
 
 ### Connect with me
