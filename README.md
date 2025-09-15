@@ -1,39 +1,48 @@
-### Hi there, I'm Elie 👋
+# Hi there, I'm Elie 👋
 
-## I'm a Salesforce Consultant/Developer 👨‍💻
+### 🚀 Salesforce Consultant • Developer • Eternal Learner
 
-Born a programmer, forever a learner.
+I craft powerful CRM and AI-driven solutions that help businesses scale.  
+Born a programmer, forever curious — always shipping, learning, and pushing boundaries.  
 
-### Connect with me
-
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+💡 Currently building digital transformation projects across the GCC & Europe.
 
 ---
 
-[twitter]: https://twitter.com/eliemirza
-[youtube]: https://youtube.com/c/thecouplecrib
-[instagram]: https://instagram.com/eliemirza
+## 🌐 Connect with Me
+
+[<img alt="YouTube" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
+## 🧰 Tech Stack
+
+<img alt="Salesforce" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/salesforce/salesforce.png" />
+<img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+<img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+
+---
+
+📍 Based in Doha, Qatar  
+🎯 On a mission to build tools that make people’s lives easier  
+🌱 Always experimenting with new tech & ideas
+
+---
+
+[twitter]: https://twitter.com/eliemirza  
+[youtube]: https://youtube.com/c/thecouplecrib  
+[instagram]: https://instagram.com/eliemirza  
 [linkedin]: https://linkedin.com/in/eliemirza
