@@ -17,7 +17,7 @@
 
 ### ⚡ Tech Toolbox
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/salesforce/salesforce.png" width="36" title="Salesforce"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg" width="36" title="Salesforce"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="36" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="36" title="React"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="36" title="Node.js"/>
